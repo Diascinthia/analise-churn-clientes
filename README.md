@@ -2,16 +2,16 @@
 
 Projeto prático de Customer Success com foco em análise de churn e estratégias de retenção, baseado em cenários reais de gestão de clientes.
 
-## 🎯 Objetivo
+## Objetivo
 Realizar uma análise de churn para identificar padrões de cancelamento e gerar insights estratégicos de retenção, com base em práticas de Customer Success orientadas a dados.
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+## Ferramentas utilizadas
 - Google Sheets  
 - Excel  
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 O projeto foi desenvolvido a partir de uma base estruturada de Customer Success, contemplando:
 
 - Base de clientes  
@@ -21,7 +21,7 @@ O projeto foi desenvolvido a partir de uma base estruturada de Customer Success,
 - Insights estratégicos  
 - Plano de ação  
 
-## 📊 Análise realizada
+## Análise realizada
 A análise considerou os seguintes pontos:
 
 - Clientes ativos vs cancelados  
@@ -49,19 +49,19 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 - Estratégias de retenção são mais eficientes e menos custosas do que aquisição de novos clientes  
 - A atuação preventiva aumenta o lifetime value (LTV) da base de clientes  
 
-## 📊 Visão geral da análise
+## Visão geral da análise
 
 ![Dashboard](dashboard-churn.png)
 
 ## 📎 Arquivo do projeto
 A análise completa pode ser acessada na planilha disponível neste repositório.
 
-## ⚠️ Observação
+## Observação
 Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetivo de preservar a confidencialidade das informações reais.  
 A estrutura e o raciocínio refletem cenários reais de análise em Customer Success.
 
-## 👩‍💼 Sobre mim
+## Sobre mim
 Sou profissional com mais de 6 anos de experiência em Customer Success, com foco em retenção, engajamento e crescimento de clientes em ambientes de tecnologia e marketplace.
 
-## 📫 Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/cinthiadiasguimaraes
