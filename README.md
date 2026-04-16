@@ -1,5 +1,7 @@
 # 📊 Análise Estratégica de Churn e Retenção de Clientes
 
+Projeto prático de Customer Success com foco em análise de churn e estratégias de retenção, baseado em cenários reais de gestão de clientes.
+
 ## 🎯 Objetivo
 Realizar uma análise de churn para identificar padrões de cancelamento e gerar insights estratégicos de retenção, com base em práticas de Customer Success orientadas a dados.
 
@@ -50,6 +52,9 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 ## 📊 Visão geral da análise
 
 ![Dashboard](dashboard-churn.png)
+
+## 📎 Arquivo do projeto
+A análise completa pode ser acessada na planilha disponível neste repositório.
 
 ## ⚠️ Observação
 Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetivo de preservar a confidencialidade das informações reais.  
