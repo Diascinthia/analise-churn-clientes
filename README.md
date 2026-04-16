@@ -1,4 +1,4 @@
-# Análise Estratégica de Churn e Retenção de Clientes
+# 📊 Análise Estratégica de Churn e Retenção de Clientes
 
 Projeto prático de Customer Success com foco em análise de churn e estratégias de retenção, baseado em cenários reais de gestão de clientes.
 
