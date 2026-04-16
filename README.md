@@ -53,7 +53,7 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 
 ![Dashboard](dashboard-churn.png)
 
-## 📎 Arquivo do projeto
+## Arquivo do projeto
 A análise completa pode ser acessada na planilha disponível neste repositório.
 
 ## Observação
