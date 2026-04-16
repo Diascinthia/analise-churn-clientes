@@ -47,6 +47,10 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 - Estratégias de retenção são mais eficientes e menos custosas do que aquisição de novos clientes  
 - A atuação preventiva aumenta o lifetime value (LTV) da base de clientes  
 
+## 📊 Visual da Análise
+
+![Dashboard](print.png)
+
 ## ⚠️ Observação
 Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetivo de preservar a confidencialidade das informações reais.  
 A estrutura e o raciocínio refletem cenários reais de análise em Customer Success.
