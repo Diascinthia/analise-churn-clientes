@@ -52,7 +52,7 @@ Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetiv
 A estrutura e o raciocínio refletem cenários reais de análise em Customer Success.
 
 ## 👩‍💼 Sobre mim
-Sou profissional com mais de 7 anos de experiência em Customer Success, com foco em retenção, engajamento e crescimento de clientes em ambientes de tecnologia e marketplace.
+Sou profissional com mais de 6 anos de experiência em Customer Success, com foco em retenção, engajamento e crescimento de clientes em ambientes de tecnologia e marketplace.
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/cinthiadiasguimaraes
