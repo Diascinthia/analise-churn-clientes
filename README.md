@@ -49,7 +49,7 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 
 ## 📊 Visual da Análise
 
-![Dashboard](print.png)
+![Dashboard](painel churn2.png)
 
 ## ⚠️ Observação
 Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetivo de preservar a confidencialidade das informações reais.  
