@@ -47,9 +47,9 @@ Com base nos insights, foram identificadas as seguintes ações estratégicas:
 - Estratégias de retenção são mais eficientes e menos custosas do que aquisição de novos clientes  
 - A atuação preventiva aumenta o lifetime value (LTV) da base de clientes  
 
-## 📊 Visual da Análise
+## 📊 Visão geral da análise
 
-![Dashboard](painel churn2.png)
+![Dashboard](dashboard-churn.png)
 
 ## ⚠️ Observação
 Os dados utilizados neste projeto são fictícios ou anonimizados, com o objetivo de preservar a confidencialidade das informações reais.  
